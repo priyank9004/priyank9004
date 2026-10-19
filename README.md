@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/priyank9004/priyank9004/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/priyank9004/priyank9004/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
