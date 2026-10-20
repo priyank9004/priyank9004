@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/priyank9004/priyank9004/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/priyank9004/priyank9004/tree/master/0009-palindrome-number) |
 ## String
 |  |
 | ------- |
