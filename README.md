@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 | ------- |
 | [0007-reverse-integer](https://github.com/priyank9004/priyank9004/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/priyank9004/priyank9004/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/priyank9004/priyank9004/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/priyank9004/priyank9004/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +49,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyank9004/priyank9004/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
