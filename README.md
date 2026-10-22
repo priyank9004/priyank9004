@@ -59,4 +59,24 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyank9004/priyank9004/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyank9004/priyank9004/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyank9004/priyank9004/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyank9004/priyank9004/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyank9004/priyank9004/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyank9004/priyank9004/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
