@@ -43,10 +43,12 @@ Here are some ideas to get you started:
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyank9004/priyank9004/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/priyank9004/priyank9004/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/priyank9004/priyank9004/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyank9004/priyank9004/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/priyank9004/priyank9004/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -79,4 +81,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyank9004/priyank9004/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/priyank9004/priyank9004/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
