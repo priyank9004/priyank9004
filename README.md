@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priyank9004/priyank9004/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/priyank9004/priyank9004/tree/master/0025-reverse-nodes-in-k-group) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyank9004/priyank9004/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/priyank9004/priyank9004/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
 | ------- |
