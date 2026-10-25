@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 | [0010-regular-expression-matching](https://github.com/priyank9004/priyank9004/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyank9004/priyank9004/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Trie
 |  |
 | ------- |
@@ -90,4 +92,8 @@ Here are some ideas to get you started:
 | ------- |
 | [0015-3sum](https://github.com/priyank9004/priyank9004/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyank9004/priyank9004/tree/master/0016-3sum-closest) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
