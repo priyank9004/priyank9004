@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyank9004/priyank9004/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/priyank9004/priyank9004/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/priyank9004/priyank9004/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priyank9004/priyank9004/tree/master/0015-3sum) |
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyank9004/priyank9004/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Trie
