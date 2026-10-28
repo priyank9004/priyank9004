@@ -31,10 +31,12 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyank9004/priyank9004/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priyank9004/priyank9004/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -107,4 +109,9 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
