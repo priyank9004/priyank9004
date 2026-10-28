@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 | [0014-longest-common-prefix](https://github.com/priyank9004/priyank9004/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyank9004/priyank9004/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Here are some ideas to get you started:
 | [0001-two-sum](https://github.com/priyank9004/priyank9004/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyank9004/priyank9004/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Trie
 |  |
 | ------- |
@@ -116,4 +118,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyank9004/priyank9004/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
