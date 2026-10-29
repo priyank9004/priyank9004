@@ -33,11 +33,13 @@ Here are some ideas to get you started:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyank9004/priyank9004/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priyank9004/priyank9004/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -118,8 +120,13 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyank9004/priyank9004/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
