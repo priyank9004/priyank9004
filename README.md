@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 | [0018-4sum](https://github.com/priyank9004/priyank9004/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyank9004/priyank9004/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyank9004/priyank9004/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/priyank9004/priyank9004/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/priyank9004/priyank9004/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/priyank9004/priyank9004/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/priyank9004/priyank9004/tree/master/0189-rotate-array) |
@@ -72,6 +73,7 @@ Here are some ideas to get you started:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyank9004/priyank9004/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyank9004/priyank9004/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyank9004/priyank9004/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/priyank9004/priyank9004/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/priyank9004/priyank9004/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
