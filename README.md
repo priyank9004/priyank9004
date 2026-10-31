@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyank9004/priyank9004/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyank9004/priyank9004/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/priyank9004/priyank9004/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyank9004/priyank9004/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/priyank9004/priyank9004/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/priyank9004/priyank9004/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/priyank9004/priyank9004/tree/master/0189-rotate-array) |
@@ -156,4 +157,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyank9004/priyank9004/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyank9004/priyank9004/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
