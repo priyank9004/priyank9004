@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/priyank9004/priyank9004/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/priyank9004/priyank9004/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/priyank9004/priyank9004/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/priyank9004/priyank9004/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/priyank9004/priyank9004/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@ Here are some ideas to get you started:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyank9004/priyank9004/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyank9004/priyank9004/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/priyank9004/priyank9004/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/priyank9004/priyank9004/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyank9004/priyank9004/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/priyank9004/priyank9004/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
