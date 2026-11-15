@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/priyank9004/priyank9004/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/priyank9004/priyank9004/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/priyank9004/priyank9004/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/priyank9004/priyank9004/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Here are some ideas to get you started:
 | [0041-first-missing-positive](https://github.com/priyank9004/priyank9004/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/priyank9004/priyank9004/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/priyank9004/priyank9004/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/priyank9004/priyank9004/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Here are some ideas to get you started:
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyank9004/priyank9004/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/priyank9004/priyank9004/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/priyank9004/priyank9004/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/priyank9004/priyank9004/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +126,7 @@ Here are some ideas to get you started:
 | [0015-3sum](https://github.com/priyank9004/priyank9004/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyank9004/priyank9004/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyank9004/priyank9004/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/priyank9004/priyank9004/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,6 +151,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/priyank9004/priyank9004/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/priyank9004/priyank9004/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -164,4 +169,5 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyank9004/priyank9004/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/priyank9004/priyank9004/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
