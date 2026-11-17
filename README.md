@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 | [0051-n-queens](https://github.com/priyank9004/priyank9004/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/priyank9004/priyank9004/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyank9004/priyank9004/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/priyank9004/priyank9004/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
